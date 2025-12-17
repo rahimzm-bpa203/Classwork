@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\novbe2\\source\\repos\\Classwork\\",
+  "WorkspaceRootPath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\source\\repos\\classwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\source\\repos\\classwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\source\\repos\\classwork\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\source\\repos\\classwork\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Classwork\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Classwork\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T14:50:48.537Z",
+              "WhenOpened": "2025-12-17T13:32:19.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Classwork\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Classwork\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T14:23:02.75Z",
+              "WhenOpened": "2025-12-16T14:57:50.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Views\\Home\\Detail.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Detail.cshtml*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T13:58:53.13Z",
+              "WhenOpened": "2025-12-16T14:25:27.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T13:54:11.986Z",
               "EditorCaption": ""

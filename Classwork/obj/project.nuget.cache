@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "47x6FqY+EOo=",
+  "dgSpecHash": "Wvy+Y3bvDyY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Classwork.csproj",
+  "projectFilePath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Classwork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\novbe2\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\novbe2\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

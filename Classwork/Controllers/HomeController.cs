@@ -2,6 +2,7 @@
 using Classwork.Models;
 using Classwork.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Classwork.Controllers
 {
@@ -25,6 +26,23 @@ namespace Classwork.Controllers
             };
 
             return View(homeVM);
+        }
+
+        public IActionResult Detail(int? id)
+        {
+            Product? product = _context.Products.Include(p=>p.Categories).FirstOrDefault(p => p.Id == id);
+
+            List<Product> products = _context.Products.Include(p=>p.Categories).ToList();
+
+            DetailVM detailVM = new DetailVM
+            {
+                RelatedProducts = product,
+                Products = products
+
+            };
+
+
+            return View(detailVM);
         }
     }
 }

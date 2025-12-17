@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Classwork.csproj",
+      "projectUniqueName": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Classwork.csproj",
       "projectName": "Classwork",
-      "projectPath": "C:\\Users\\novbe2\\source\\repos\\Classwork\\Classwork.csproj",
+      "projectPath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Classwork.csproj",
       "packagesPath": "C:\\Users\\novbe2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\novbe2\\source\\repos\\Classwork\\obj\\",
+      "outputPath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
