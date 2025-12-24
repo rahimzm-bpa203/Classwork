@@ -7,6 +7,8 @@ namespace Classwork.Models
 
         public string? ImageUrl { get; set; }
         public int Order { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
 
     }
 }

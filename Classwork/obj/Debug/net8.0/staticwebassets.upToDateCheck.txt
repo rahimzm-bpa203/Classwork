@@ -1919,3 +1919,4 @@ wwwroot\Admin\vendor\jquery\jquery.min.map
 wwwroot\Admin\vendor\jquery\jquery.slim.js
 wwwroot\Admin\vendor\jquery\jquery.slim.min.js
 wwwroot\Admin\vendor\jquery\jquery.slim.min.map
+wwwroot\img\de0c3485-18d5-4403-ab9f-dca821486d7c260520231-scaled-1-696x464-1.jpg

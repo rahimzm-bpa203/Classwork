@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\viewmodels\\product\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\viewmodels\\product\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\SliderController.cs*",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:59:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:04:59.625Z",
+              "WhenOpened": "2025-12-24T13:31:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:21:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\ViewModels\\Product\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\ViewModels\\Product\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\ViewModels\\Product\\GetProductVM.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\ViewModels\\Product\\GetProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:21:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:19:21.21Z",
               "EditorCaption": ""
             }
           ]

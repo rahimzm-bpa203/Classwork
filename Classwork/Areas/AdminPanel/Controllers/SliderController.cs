@@ -62,6 +62,37 @@ namespace Classwork.Areas.AdminPanel.Controllers
             return View(slider);
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, Slider slider)
+        {
+            if (id == null || id < 1) return BadRequest();
+            Slider exsistSlider = await _context.Sliders.FirstOrDefaultAsync(s => s.Id == id);
+            if (exsistSlider is null) return NotFound();
+
+            if(!ModelState.IsValid)
+            {
+                return View(exsistSlider);
+            }
+
+            if (slider.Photo != null)
+            {
+                if (!slider.Photo.CheckFileType("image/"))
+                {
+                    ModelState.AddModelError("Photo", "File type is incorrect");
+                    return View();
+                }
+                exsistSlider.ImageUrl.FileDeleteAsync(_env.WebRootPath, "img");
+                exsistSlider.ImageUrl = await slider.Photo.CreateFileAsync(_env.WebRootPath, "img");
+
+            }
+            exsistSlider.Order = slider.Order;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+
+        }
+
         public async Task<IActionResult> Delete (int? id)
         {
             if (id == null || id < 1) return BadRequest();
