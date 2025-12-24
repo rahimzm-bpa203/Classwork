@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|c:\\users\\novbe2\\desktop\\task\\classwork\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C8F138-2C16-42B1-BF75-7FA692917AAB}|Classwork.csproj|solutionrelative:utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-19T15:06:09.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "Utilities\\Extentions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeToolTip": "Utilities\\Extentions\\FileValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T14:43:23.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Home\\Detail.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-19T14:29:31.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-19T13:47:46.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\novbe2\\Desktop\\Task\\Classwork\\Areas\\AdminPanel\\Controllers\\SliderController.cs*",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:47:34.682Z",
+              "WhenOpened": "2025-12-22T14:04:59.625Z",
               "EditorCaption": ""
             }
           ]

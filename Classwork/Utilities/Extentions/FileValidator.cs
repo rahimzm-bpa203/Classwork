@@ -1,6 +1,4 @@
-﻿
-
-namespace Classwork.Utilities.Extentions
+﻿namespace Classwork.Utilities.Extentions
 {
     public static  class FileValidator
     {
@@ -12,7 +10,6 @@ namespace Classwork.Utilities.Extentions
             }
             return false;
         }
-
 
         public async static Task<string> CreateFileAsync(this IFormFile file, params string[] roots)
         {
@@ -33,6 +30,17 @@ namespace Classwork.Utilities.Extentions
             }
             return fileName;
 
+        }
+
+        public  static async Task FileDeleteAsync(this string fileName, params string[] roots )
+        {
+            string path = string.Empty;
+            for(int i = 0; i< roots.Length; i++)
+            {
+                path = Path.Combine(path, roots[i]);
+            }
+            path = Path.Combine(path, fileName);
+            File.Delete(path);
         }
     }
 }
